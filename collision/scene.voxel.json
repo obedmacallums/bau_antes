@@ -1,0 +1,37 @@
+{
+    "version": "1.1",
+    "asset": {
+        "generator": "Spirula Studio"
+    },
+    "gridBounds": {
+        "min": [
+            -4,
+            -1.4000000000000001,
+            -1.6
+        ],
+        "max": [
+            3.6000000000000005,
+            3.4000000000000004,
+            2
+        ]
+    },
+    "sceneBounds": {
+        "min": [
+            -4.709902763366699,
+            -1.5444276332855225,
+            -1.9977099895477295
+        ],
+        "max": [
+            4.201112270355225,
+            4.038951396942139,
+            2.3966526985168457
+        ]
+    },
+    "voxelResolution": 0.05,
+    "leafSize": 4,
+    "treeDepth": 6,
+    "numInteriorNodes": 843,
+    "numMixedLeaves": 1877,
+    "nodeCount": 4918,
+    "leafDataCount": 3754
+}
